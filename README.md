@@ -4,6 +4,12 @@
 
 题目链接 http://codecraft.huawei.com/home/detail
 
+
+| Author | Sequin小红九|
+| ---------- | -----------|
+| Email   | SequinYF@xiyoulinux.org   |
+| Csdn    | http://blog.csdn.net/sequin_yf |
+
 ## 背景
 大视频解决方案中，视频业务体验非常关键，视频内容如何有效传送到最终消费者是决定视频体验好坏的核心环节。
 ## 概述
