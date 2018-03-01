@@ -3,6 +3,7 @@
 队名：师妃暄
 
 题目链接 http://codecraft.huawei.com/home/detail
+![Rank](https://github.com/SequinYF/Future_Route/blob/master/rank.png)
 
 
 | Author | Sequin小红九|
